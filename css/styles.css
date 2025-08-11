@@ -1,12 +1,18 @@
-#hero {
+.page-header {
+  background-color: #bdbdbd;
+}
+.section-text {
+  color: #ff5722;
+}
+.page-footer {
+  background-color: #212121;
+}
+.copyright-text {
+  color: #ffffff;
+}
+.page-title {
+  color: #f44336;
+}
+.section-title {
   color: #3f51b5;
-}
-#clubs {
-  color: #9c27b0;
-}
-#benefits {
-  color: #00bcd4;
-}
-#programs {
-  color: #ff9800;
 }
