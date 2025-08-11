@@ -52,3 +52,24 @@
 .club-list .link:hover {
   color: #f57f17;
 }
+.page-nav .link {
+  color: #00bcd4;
+}
+
+.page-nav .link:hover {
+  color: #18ffff;
+}
+.page-nav .link:active {
+  color: #212121;
+}
+
+.club-list .link {
+  color: #ffc107;
+}
+
+.club-list .link:hover {
+  color: #f57f17;
+}
+.club-list .link:hover {
+  color: #ff1744;
+}

@@ -60,7 +60,13 @@ Page of the gym network!
 
 ## When hover the link should change color:
 
--Lear inside Page-Nav change color to #18ffff
--Chit inside Club-List change color to #F57F17
+- Lear inside Page-Nav change color to #18ffff
+- Chit inside Club-List change color to #F57F17
+
+12. Add CSS rules for the effect of active links.When clicking the link should change color:
+
+- link inside Page-Nav change color to #212121
+- link inside club-List change color to #FF1744
+
 
 ![Опис зображення](./asset/planet-fatness.png)
