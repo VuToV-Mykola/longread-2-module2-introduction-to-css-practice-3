@@ -1,0 +1,12 @@
+{
+  "extends":[
+    "stylelint-config-standard",
+    "stylelint-prettier/recommended",
+    "stylelint-config-clean-order"
+  ],
+  "rules": {
+    "no-duplicate-selectors": true,
+    "declaration-block-no-duplicate-properties": true,
+    "block-no-empty": true
+  }
+}
