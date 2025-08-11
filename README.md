@@ -18,5 +18,13 @@ Page of the gym network!
    #F5F5F5 for the Heder background, and for the text of the links #212121.
 6. Add the Rule with NAV selector to the style file.Use the RGBA () function and
    set the color of Nav Blue Blue with a transparency of 0.3.
+7. Let's start with the design of the text content of headings and
+   references.Add the text color to the tag selector.  
+    лектора тега.
+
+- add h1 tags #F44336;
+- add h2 tags #3F51b5;
+- Add h3 tags #4CAF50;
+- Add tags a color #FFC107.
 
 ![Опис зображення](./asset/planet-fatness.png)
