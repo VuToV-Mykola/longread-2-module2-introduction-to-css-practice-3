@@ -16,5 +16,7 @@ Page of the gym network!
    color 245, 245, 245 instead of black grounds 0, 0, 0, 0
 5. Changes in color value in the style file to Hexadecimal format.Use color
    #F5F5F5 for the Heder background, and for the text of the links #212121.
+6. Add the Rule with NAV selector to the style file.Use the RGBA () function and
+   set the color of Nav Blue Blue with a transparency of 0.3.
 
 ![Опис зображення](./asset/planet-fatness.png)
