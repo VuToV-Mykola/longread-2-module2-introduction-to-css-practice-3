@@ -1,4 +1,12 @@
-.p{
-    color: #015838
-
+h1 {
+  color: orange;
 }
+p {
+  color: cyan;
+}
+/* a {
+  color: black;
+}
+header {
+  background-color: whitesmoke;
+} */
