@@ -36,3 +36,19 @@
 .club-list .link {
   color: #ffc107;
 }
+.benefits > li {
+  color: #d500f9;
+}
+.page-nav .link {
+  color: #00bcd4;
+}
+.page-nav .link:hover {
+  color: #18ffff;
+}
+
+.club-list .link {
+  color: #ffc107;
+}
+.club-list .link:hover {
+  color: #f57f17;
+}

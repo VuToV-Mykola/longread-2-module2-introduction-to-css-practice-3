@@ -56,4 +56,11 @@ Page of the gym network!
 - The color of the text in paragraphs of the list of list #009688
 - text color in list items #FFC107
 
+11. Add CSS rules for the hover effect on page links.Use the selectors of the descendant with classes in the .Class1 .Class2.
+
+## When hover the link should change color:
+
+-Lear inside Page-Nav change color to #18ffff
+-Chit inside Club-List change color to #F57F17
+
 ![Опис зображення](./asset/planet-fatness.png)
