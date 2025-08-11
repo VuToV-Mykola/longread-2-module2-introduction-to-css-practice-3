@@ -4,22 +4,13 @@ Page of the gym network!
 
 # todo:
 
-1. Connect to HTML file an external style table, the path to which
-   ./css/styles.css.In the CSS Editor tab, add two CSS rules for H1 and P
-   tags.In the styles file, set the text color color with Orange values for the
-   title and Cyan for the paragraph.
-2. Add the links to the links for links in which the color of the text of the
-   links on Black.
-3. Add a Header Tag Tag File, in which the color of its background is changed on
-   WhitesMoke.
-4. Changes in color value in the style file on RGB.Instead of WhitesMoke, use
-   color 245, 245, 245 instead of black grounds 0, 0, 0, 0
-5. Changes in color value in the style file to Hexadecimal format.Use color
-   #F5F5F5 for the Heder background, and for the text of the links #212121.
-6. Add the Rule with NAV selector to the style file.Use the RGBA () function and
-   set the color of Nav Blue Blue with a transparency of 0.3.
-7. Let's start with the design of the text content of headings and
-   references.Add the text color to the tag selector.  
+1. Connect to HTML file an external style table, the path to which ./css/styles.css.In the CSS Editor tab, add two CSS rules for H1 and P tags.In the styles file, set the text color color with Orange values for the title and Cyan for the paragraph.
+2. Add the links to the links for links in which the color of the text of the links on Black.
+3. Add a Header Tag Tag File, in which the color of its background is changed on WhitesMoke.
+4. Changes in color value in the style file on RGB.Instead of WhitesMoke, use color 245, 245, 245 instead of black grounds 0, 0, 0, 0
+5. Changes in color value in the style file to Hexadecimal format.Use color #F5F5F5 for the Heder background, and for the text of the links #212121.
+6. Add the Rule with NAV selector to the style file.Use the RGBA () function and set the color of Nav Blue Blue with a transparency of 0.3.
+7. Let's start with the design of the text content of headings and references.Add the text color to the tag selector.  
     лектора тега.
 
 - add h1 tags #F44336;
@@ -34,8 +25,7 @@ Page of the gym network!
 - the color of the title with ID = "BeneFits" should become #00bcd4
 - Title Color with ID = "PROGRAMS" should become #ff9800
 
-9. On the HTML code tab, we have added the items to the Class Attribute: Tagh
-   Header, H1, H2, P in Sections, Footer and P on foot.
+9. On the HTML code tab, we have added the items to the Class Attribute: Tagh Header, H1, H2, P in Sections, Footer and P on foot.
 
 ## For other tags add rules with class selector and the following properties:
 
@@ -46,9 +36,7 @@ Page of the gym network!
 - Colier of the text of Page Title #F44336
 - Text Colier Headers Section #3F51B5
 
-10. On the HTML code tab, we added the list and its elements in the club section
-    of the Class Attribute.Use the selectors of the descendant with classes in
-    the .Class1 .Class2.
+10. On the HTML code tab, we added the list and its elements in the club section of the Class Attribute.Use the selectors of the descendant with classes in the .Class1 .Class2.
 
 ## Add the rules with the following properties to the items:
 
@@ -56,31 +44,25 @@ Page of the gym network!
 - The color of the text in paragraphs of the list of list #009688
 - text color in list items #FFC107
 
-11. Add CSS rules for the hover effect on page links.Use the selectors of the
-    descendant with classes in the .Class1 .Class2.
+11. Add CSS rules for the hover effect on page links.Use the selectors of the descendant with classes in the .Class1 .Class2.
 
 ## When hover the link should change color:
 
 - Lear inside Page-Nav change color to #18ffff
 - Chit inside Club-List change color to #F57F17
 
-12. Add CSS rules for the effect of active links.When clicking the link should
-    change color:
+12. Add CSS rules for the effect of active links.When clicking the link should change color:
 
 - link inside Page-Nav change color to #212121
 - link inside club-List change color to #FF1744
 
-13. Add CSS rules for the reference focus effect.When navigating from the
-    keyboard, the links should change color:
+13. Add CSS rules for the reference focus effect.When navigating from the keyboard, the links should change color:
 
 - link inside Page-Nav change color to #18ffff
 - Link inside Club-List change color to #F57F17
-- Be sure to use the syntax of the selector listing! Set the first level header
-  font with Georgia.Do not forget to specify a family with a shabby font if the
-  user suddenly does not have a Georgia font.
+- Be sure to use the syntax of the selector listing! Set the first level header font with Georgia.Do not forget to specify a family with a shabby font if the user suddenly does not have a Georgia font.
 
-14. Set the first level header font with Georgia.Do not forget to specify family
-    fonts with a shab Georgia.
+14. Set the first level header font with Georgia.Do not forget to specify family fonts with a shab Georgia.
 15. Set the basic font of the document in CSS Rules with Body Selector.Here is a list of possible fonts that we need to use.
 
 - "Helvetica Neue", "Roboto", "Verdana", Sans-Serif
@@ -91,5 +73,11 @@ Page of the gym network!
 - H2 headers should be 20px size
 - H3 titles should be 16px size
 - links in the club section should be 14px size
+
+17. Задай вагу шрифту заголовків та посилань секції клубів. Доповни код існуючих CSS правил.
+
+- Текст заголовка h1 має бути вагою 500
+- Текст заголовків h2 має бути вагою 500
+- Текст посилань у секції клубів має бути вагою 500
 
 ![Опис зображення](./asset/planet-fatness.png)
