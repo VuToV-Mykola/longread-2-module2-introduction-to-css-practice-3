@@ -1,12 +1,30 @@
 {
-  "extends":[
+  "extends": [
     "stylelint-config-standard",
     "stylelint-prettier/recommended",
     "stylelint-config-clean-order"
   ],
   "rules": {
     "no-duplicate-selectors": true,
-    "declaration-block-no-duplicate-properties": true,
-    "block-no-empty": true
+    "declaration-block-no-duplicate-properties": [
+      true,
+      {
+        "ignore": ["consecutive-duplicates"]
+      }
+    ],
+    "block-no-empty": true,
+    "declaration-property-value-no-unknown": [
+      true,
+      {
+        "ignoreProperties": {
+          "/^/": ["/^\\d+(px|rem|em)$/", "inherit", "initial", "unset"],
+          "font-family": ["sans-serif", "serif", "monospace"]
+        }
+      }
+    ],
+    "font-family-name-quotes": "always-unless-keyword",
+    "selector-class-pattern": "^[a-z][a-zA-Z0-9]*(-[a-zA-Z0-9]+)*$",
+    "color-named": "never",
+    "length-zero-no-unit": true
   }
 }

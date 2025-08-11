@@ -1,45 +1,31 @@
 {
   "plugins": ["@awmottaz/prettier-plugin-void-html"],
   "bracketSameLine": false,
-  "htmlVoidElements": true,
-  "htmlWhitespaceSensitivity": "ignore",
+  "htmlWhitespaceSensitivity": "css",
   "vueIndentScriptAndStyle": false,
   "singleAttributePerLine": false,
-  "html.void": "never",
-
   "singleQuote": true,
-  "printWidth": 80,
+  "printWidth": 100,
   "tabWidth": 2,
   "useTabs": false,
-  "semi": true,
-
-  "trailingComma": "es5",
-  "bracketSpacing": true,
-  "jsxBracketSameLine": false,
+  "semi": false,
+  "trailingComma": "none",
+  "bracketSpacing": false,
   "arrowParens": "avoid",
-  "proseWrap": "always",
-
-  "htmlVoidTags": [
-    "area",
-    "base",
-    "br",
-    "col",
-    "embed",
-    "hr",
-    "img",
-    "input",
-    "link",
-    "meta",
-    "param",
-    "source",
-    "track",
-    "wbr"
-  ],
+  "proseWrap": "never",
   "overrides": [
     {
-      "files": "*.html",
+      "files": ["*.html", "*.htm"],
       "options": {
-        "parser": "html"
+        "parser": "html",
+        "htmlWhitespaceSensitivity": "ignore"
+      }
+    },
+    {
+      "files": "*.css",
+      "options": {
+        "quoteProps": "consistent",
+        "singleQuote": true
       }
     }
   ]
