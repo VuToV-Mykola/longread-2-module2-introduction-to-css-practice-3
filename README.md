@@ -75,6 +75,11 @@ Page of the gym network!
 
 - link inside Page-Nav change color to #18ffff
 - Link inside Club-List change color to #F57F17
-- Be sure to use the syntax of the selector listing!
+- Be sure to use the syntax of the selector listing! Set the first level header
+  font with Georgia.Do not forget to specify a family with a shabby font if the
+  user suddenly does not have a Georgia font.
+
+14. Set the first level header font with Georgia.Do not forget to specify family
+    fonts with a shab Georgia.
 
 ![Опис зображення](./asset/planet-fatness.png)
