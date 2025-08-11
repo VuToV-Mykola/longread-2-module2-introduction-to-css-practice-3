@@ -27,22 +27,33 @@ Page of the gym network!
 - Add h3 tags #4CAF50;
 - Add tags a color #FFC107.
 
-8. Використай селектор ідентифікатора для зміни кольору у тексті заголовків.
+8. Use the ID selector to change the color in the header text.
 
-- Колір заголовка з id="hero" має стати #3f51b5
-- Колір заголовка з id="clubs" має стати #9c27b0
-- Колір заголовка з id="benefits" має стати #00bcd4
-- Колір заголовка з id="programs" має стати #ff9800
+- the color of the title with ID = "hero" should become #3F51B5
+- the color of the title with ID = "Clubs" should become #9C27B0
+- the color of the title with ID = "BeneFits" should become #00bcd4
+- Title Color with ID = "PROGRAMS" should become #ff9800
 
-9. На вкладці з HTML кодом ми додали елементам атрибут class: тегам header, h1, h2, p у секціях, footer та p у футері.
+9. On the HTML code tab, we have added the items to the Class Attribute: Tagh
+   Header, H1, H2, P in Sections, Footer and P on foot.
 
-## Для інших тегів додай правила з селектором класу та такими властивостями:
+## For other tags add rules with class selector and the following properties:
 
-- У хедері колір фону #bdbdbd
-- Колір тексту в елементах з класом section-text на #ff5722
-- У футера колір фону #212121
-- Колір тексту у футері #ffffff
-- Колiр тексту заголовку сторiнки #f44336
-- Колiр тексту заголовкiв секцiй #3f51b5
+- Heder's color background #bdbd
+- The color of the text in items with the Section-Text class on #FF5722
+- In Ladin Color Background #212121
+- the color of text in foot #ffffff
+- Colier of the text of Page Title #F44336
+- Text Colier Headers Section #3F51B5
+
+10. On the HTML code tab, we added the list and its elements in the club section
+    of the Class Attribute.Use the selectors of the descendant with classes in
+    the .Class1 .Class2.
+
+## Add the rules with the following properties to the items:
+
+- Color of text in the title of the items of the list #4CAF50
+- The color of the text in paragraphs of the list of list #009688
+- text color in list items #FFC107
 
 ![Опис зображення](./asset/planet-fatness.png)
