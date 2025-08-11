@@ -5,8 +5,8 @@ p {
   color: cyan;
 }
 a {
-  color: black;
+  color: rgb(0, 0, 0);
 }
- header {
-  background-color: whitesmoke;
-} 
+header {
+  background-color: rgb(245, 245, 245);
+}
