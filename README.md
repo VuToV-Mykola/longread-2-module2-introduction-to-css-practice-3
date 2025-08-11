@@ -81,5 +81,15 @@ Page of the gym network!
 
 14. Set the first level header font with Georgia.Do not forget to specify family
     fonts with a shab Georgia.
+15. Set the basic font of the document in CSS Rules with Body Selector.Here is a list of possible fonts that we need to use.
+
+- "Helvetica Neue", "Roboto", "Verdana", Sans-Serif
+
+16. Set the font size of page elements.Supplement the code already existing CSS rules and create new ones as needed.Use classrooms and offspring.
+
+- H1 title text should be 24px size
+- H2 headers should be 20px size
+- H3 titles should be 16px size
+- links in the club section should be 14px size
 
 ![Опис зображення](./asset/planet-fatness.png)
