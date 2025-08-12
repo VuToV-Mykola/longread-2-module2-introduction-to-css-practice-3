@@ -1,4 +1,4 @@
-# longread-2-module2-introduction-to-css-practice-3-4
+# longread-2-module2-introduction-to-css-practice-3(1-30)
 
 Page of the gym network! ![Опис зображення](./asset/planet-fatness.png)
 
