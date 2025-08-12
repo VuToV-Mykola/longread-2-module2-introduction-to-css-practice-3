@@ -83,3 +83,6 @@ Page of the gym network! ![Опис зображення](./asset/planet-fatness
 18. Set the H1 header to the course image of the font.
 
 19. The Head tag connects two POPPINS fonts - this will be the main font of the document and OSWALD - heading font.Changes in Font-Family for Body tag on "Poppins", Sans-serif, and set all the headers of "Oswald", Sans-serif.Use existing CSS rules.
+
+20. Give the property of Text-Decoration and stylize the link.Adjust the link in the Club-List Club section section so that they are initially under emphasis, but when you draw or focus, the underlining keyboard appeared.
+

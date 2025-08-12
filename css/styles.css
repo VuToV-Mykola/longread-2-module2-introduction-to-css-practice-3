@@ -1,6 +1,10 @@
 /* Властивість font-family успадковується більшістю елементів, тому його задають елементу body */
 
 /* Спочатку типографіка(+ :active, :hover, :focus): color, background-color, font-family, font-size, font-weight, font-style  */
+
+/* .link {
+  text-decoration: none;
+} */
 body {
   font-family: 'Poppins', sans-serif;
 }
@@ -46,6 +50,7 @@ body {
   font-size: 14px;
   font-weight: 500;
   color: #ffc107;
+  text-decoration: none;
 }
 
 .page-nav .link {
@@ -63,6 +68,7 @@ body {
 .club-list .link:hover,
 .club-list .link:focus {
   color: #f57f17;
+  text-decoration: underline;
 }
 
 .club-list .link:active {
