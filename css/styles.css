@@ -1,6 +1,6 @@
 /* Властивість font-family успадковується більшістю елементів, тому його задають елементу body */
 
-/* Спочатку типографіка(+ :active, :hover, :focus): color, background-color, font-family, font-size, line-height, font-weight, font-style, text: text-decoration, text-transform, text-align, letter-spacing   */
+/* Спочатку типографіка(+ :active, :hover, :focus): color, background-color, font-family, font-size, line-height, font-weight, font-style, text: text-decoration, text-transform, text-align, letter-spacing, text-indent (абзац), text-shadow: <зміщення по x>, <зміщення по y>, <радіус розмиття>, <колір>,    */
 
 /* .link {
   text-decoration: none;
@@ -57,6 +57,7 @@ body {
   line-height: 1.333;
   color: #f44336;
   text-align: center;
+  text-shadow: 2px 2px 4px #212121;
   letter-spacing: 3px;
 }
 

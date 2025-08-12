@@ -95,3 +95,10 @@ Page of the gym network! ![Опис зображення](./asset/planet-fatness
 24. Set the main heading of the page inter -directional interval in 3px, and the headers of sections - 1px.Use already existing CSS rules.
 
 25. Set the text sections of the first line of text 24px.Use existing CSS rules.
+
+26. Задай заголовку першого рівня тінь з наступними характеристиками:
+
+- Зміщення по горизонталі 2px
+- Зміщення по вертикалі 2px
+- Радіус розмиття 4px
+- Колір тіні #212121
