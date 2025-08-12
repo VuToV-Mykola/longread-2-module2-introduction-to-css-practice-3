@@ -108,3 +108,5 @@ Page of the gym network! ![Опис зображення](./asset/planet-fatness
 27. Set the basic color of the document text in Body tag with value #212121, as well as the text of the document 14px.
 
 28. Set the background color of the document in Body Tag with #FAFAFA value.
+
+29. Set the main row interval of a document text in a Body tag with a value 1.5.
