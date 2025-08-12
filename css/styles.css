@@ -1,6 +1,6 @@
 /* Властивість font-family успадковується більшістю елементів, тому його задають елементу body */
 
-/* Спочатку типографіка(+ :active, :hover, :focus): color, background-color, font-family, font-size, font-weight, font-style  */
+/* Спочатку типографіка(+ :active, :hover, :focus): color, background-color, font-family, font-size, line-height, font-weight, font-style, text: text-decoration, text-transform, text-align, letter-spacing   */
 
 /* .link {
   text-decoration: none;
@@ -56,6 +56,7 @@ body {
   line-height: 1.333;
   color: #f44336;
   text-align: center;
+  letter-spacing: 3px;
 }
 
 .section-title {
@@ -64,6 +65,7 @@ body {
   font-weight: 500;
   line-height: 1.333;
   color: #3f51b5;
+  letter-spacing: 1px;
 }
 
 .club-list .title {
