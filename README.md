@@ -106,3 +106,5 @@ Page of the gym network! ![Опис зображення](./asset/planet-fatness
 26. There is a task to make a workout plan in the Download List in a different color.To do this, in the HTML editor, we used the Span Tag with the Plan-Name class and turned them the name of the training plan.Your task, in the CSS editor, add a rule with a descendant selector and change the color of the item with the Plan-Name class to #FF1744.
 
 27. Set the basic color of the document text in Body tag with value #212121, as well as the text of the document 14px.
+
+28. Set the background color of the document in Body Tag with #FAFAFA value.
