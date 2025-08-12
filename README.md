@@ -110,3 +110,5 @@ Page of the gym network! ![Опис зображення](./asset/planet-fatness
 28. Set the background color of the document in Body Tag with #FAFAFA value.
 
 29. Set the main row interval of a document text in a Body tag with a value 1.5.
+
+30. All the headings of our document use the same Oswald font.In order not to duplicate the advertisement of the font family in different CSS rules for each heading, add the rule of all types of titles from H1 to H6 and set the font family in it.Do not forget to delete the property of announcing the font family from class selectors for headlines.
