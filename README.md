@@ -87,3 +87,7 @@ Page of the gym network! ![Опис зображення](./asset/planet-fatness
 20. Give the property of Text-Decoration and stylize the link.Adjust the link in the Club-List Club section section so that they are initially under emphasis, but when you draw or focus, the underlining keyboard appeared.
 
 21. Let's deal with navigation references.The entire text of the heder navigation references should be in uppercase and have a font of 14px.
+
+22. Centrify the text of the headings of the first and third levels.Use existing CSS rules.
+
+23.Dear the line interval 1.333 to all headings and 1.5 text with the Section-Text class.Use existing CSS rules and add new as needed.

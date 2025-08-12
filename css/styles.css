@@ -5,6 +5,9 @@
 /* .link {
   text-decoration: none;
 } */
+
+/* line-height: 1.5;-Використання множника гарантує рівномірне масштабування інтервалу між рядками при зміні розміру тексту. */
+
 body {
   font-family: 'Poppins', sans-serif;
 }
@@ -37,6 +40,7 @@ body {
 }
 
 .section-text {
+  line-height: 1.333;
   color: #ff5722;
 }
 
@@ -49,20 +53,25 @@ body {
   font-size: 24px;
   font-weight: 500;
   font-style: italic;
+  line-height: 1.333;
   color: #f44336;
+  text-align: center;
 }
 
 .section-title {
   font-family: 'Oswald', sans-serif;
   font-size: 20px;
   font-weight: 500;
+  line-height: 1.333;
   color: #3f51b5;
 }
 
 .club-list .title {
   font-family: 'Oswald', sans-serif;
   font-size: 16px;
+  line-height: 1.333;
   color: #4caf50;
+  text-align: center;
 }
 
 .club-list .text {
