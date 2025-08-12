@@ -11,7 +11,7 @@ Page of the gym network!
 5. Changes in color value in the style file to Hexadecimal format.Use color #F5F5F5 for the Heder background, and for the text of the links #212121.
 6. Add the Rule with NAV selector to the style file.Use the RGBA () function and set the color of Nav Blue Blue with a transparency of 0.3.
 7. Let's start with the design of the text content of headings and references.Add the text color to the tag selector.  
-    лектора тега.
+   лектора тега.
 
 - add h1 tags #F44336;
 - add h2 tags #3F51b5;
@@ -74,10 +74,14 @@ Page of the gym network!
 - H3 titles should be 16px size
 - links in the club section should be 14px size
 
-17. Задай вагу шрифту заголовків та посилань секції клубів. Доповни код існуючих CSS правил.
+17. Set the weight of the headline font and links of the club section.Supplement the existing CSS code.
 
-- Текст заголовка h1 має бути вагою 500
-- Текст заголовків h2 має бути вагою 500
-- Текст посилань у секції клубів має бути вагою 500
+- H1 title text should be 500 weighing
+- H2 titles should be 500 weighing
+- text text in the club section should be 500 weighing
+
+18. Set the H1 header to the course image of the font.
+
+19. The Head tag connects two POPPINS fonts - this will be the main font of the document and OSWALD - heading font.Changes in Font-Family for Body tag on "Poppins", Sans-serif, and set all the headers of "Oswald", Sans-serif.Use existing CSS rules.
 
 ![Опис зображення](./asset/planet-fatness.png)
