@@ -42,6 +42,7 @@ body {
 .section-text {
   line-height: 1.333;
   color: #ff5722;
+  text-indent: 24px;
 }
 
 .page-footer {

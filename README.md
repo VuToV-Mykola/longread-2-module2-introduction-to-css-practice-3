@@ -93,3 +93,5 @@ Page of the gym network! ![Опис зображення](./asset/planet-fatness
 23. Dear the line interval 1.333 to all headings and 1.5 text with the Section-Text class.Use existing CSS rules and add new as needed.
 
 24. Set the main heading of the page inter -directional interval in 3px, and the headers of sections - 1px.Use already existing CSS rules.
+
+25. Set the text sections of the first line of text 24px.Use existing CSS rules.
