@@ -8,8 +8,18 @@
 
 /* line-height: 1.5;-Використання множника гарантує рівномірне масштабування інтервалу між рядками при зміні розміру тексту. */
 
+/* Глобальні стилі документа */
+
+/* body {
+  font-family: 'Poppins', sans-serif;
+  font-size: 14px;
+  color: #2a2a2a;(крім посилань)
+} */
+
 body {
   font-family: 'Poppins', sans-serif;
+  font-size: 14px;
+  color: #212121;
 }
 
 .page-header {
@@ -28,6 +38,19 @@ body {
   color: #00bcd4;
   text-decoration: none;
   text-transform: uppercase;
+}
+
+.downloads .link {
+  text-decoration: none;
+}
+
+.downloads .link:hover,
+.downloads .link:focus {
+  text-decoration: underline;
+}
+
+.downloads .plan-name {
+  color: #ff1744;
 }
 
 .page-nav .link:active {
