@@ -1,6 +1,6 @@
 # longread-2-module2-introduction-to-css-practice-3-4
 
-Page of the gym network!
+Page of the gym network! ![Опис зображення](./asset/planet-fatness.png)
 
 # todo:
 
@@ -83,5 +83,3 @@ Page of the gym network!
 18. Set the H1 header to the course image of the font.
 
 19. The Head tag connects two POPPINS fonts - this will be the main font of the document and OSWALD - heading font.Changes in Font-Family for Body tag on "Poppins", Sans-serif, and set all the headers of "Oswald", Sans-serif.Use existing CSS rules.
-
-![Опис зображення](./asset/planet-fatness.png)
