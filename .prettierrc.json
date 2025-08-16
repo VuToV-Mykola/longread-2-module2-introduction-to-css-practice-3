@@ -1,7 +1,7 @@
 {
   "plugins": ["@awmottaz/prettier-plugin-void-html"],
-  "bracketSameLine": false,
-  "htmlWhitespaceSensitivity": "css",
+  "bracketSameLine": true,
+  "htmlWhitespaceSensitivity": "strict",
   "vueIndentScriptAndStyle": false,
   "singleAttributePerLine": false,
   "singleQuote": true,
@@ -18,7 +18,9 @@
       "files": ["*.html", "*.htm"],
       "options": {
         "parser": "html",
-        "htmlWhitespaceSensitivity": "ignore"
+        "htmlWhitespaceSensitivity": "strict",
+        "bracketSameLine": true,
+        "singleAttributePerLine": false
       }
     },
     {

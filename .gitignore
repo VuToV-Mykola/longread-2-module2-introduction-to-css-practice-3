@@ -146,6 +146,7 @@ my-passwords.txt
 #Ігнорувати всі файли в певній папці
 drafts/*
 
+
 #Ігнорувати всі .txt файли, крім plans.txt
 *.txt
 !plans.txt
