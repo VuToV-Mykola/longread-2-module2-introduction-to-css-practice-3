@@ -1,22 +1,3 @@
-/* Властивість font-family успадковується більшістю елементів, тому його задають елементу body */
-
-/* Спочатку типографіка(+ :active, :hover, :focus): color, background-color, font-family, font-size, line-height, font-weight, font-style, text: text-decoration, text-transform, text-align, letter-spacing, text-indent (абзац), text-shadow: <зміщення по x>, <зміщення по y>, <радіус розмиття>, <колір>,    */
-
-/* .link {
-  text-decoration: none;
-} */
-
-/* line-height: 1.5;-Використання множника гарантує рівномірне масштабування інтервалу між рядками при зміні розміру тексту. */
-
-/* Глобальні стилі документа */
-
-/* body {
-  font-family: 'Poppins', sans-serif;
-  font-size: 14px;
-  color: #2a2a2a;(крім посилань)
-  background-color: #fafafa;
-} */
-
 body {
   font-family: 'Poppins', sans-serif;
   font-size: 14px;
