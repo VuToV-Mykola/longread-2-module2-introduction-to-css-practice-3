@@ -8,9 +8,6 @@
 [![📦 Size](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/VuToV-Mykola/longread-2-module2-introduction-to-css-practice-3/main/assets/db/repo-size.json)](https://github.com/VuToV-Mykola/longread-2-module2-introduction-to-css-practice-3)
 [![🔤 Language](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/VuToV-Mykola/longread-2-module2-introduction-to-css-practice-3/main/assets/db/repo-language.json)](https://github.com/VuToV-Mykola/longread-2-module2-introduction-to-css-practice-3)
 [![📄 License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/VuToV-Mykola/longread-2-module2-introduction-to-css-practice-3/main/assets/db/repo-license.json)](https://github.com/VuToV-Mykola/longread-2-module2-introduction-to-css-practice-3/blob/main/LICENSE)
-
-## 📸 Latest Screenshot
-![Project Screenshot](assets/screenshot.png)
 <!-- END:AUTOGEN -->
 
 Page of the gym network! ![Опис зображення](./asset/planet-fatness.png)
